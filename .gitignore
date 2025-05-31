@@ -1,0 +1,33 @@
+# Android Studio
+.idea/
+.gradle/
+*.iml
+local.properties
+
+# Build output
+/build/
+/app/build/
+
+# APKs
+*.apk
+*.ap_
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Others
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
