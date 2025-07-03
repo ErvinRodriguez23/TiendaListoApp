@@ -1,3 +1,5 @@
+<!-- Banner visual -->
+![Banner](https://raw.githubusercontent.com/ErvinRodriguez23/TiendaListoApp/main/banner.png)
 # 📦 TiendaListoApp — ¡Tu tienda cercana ahora en tu bolsillo!
 
 ![TiendaListo Banner](https://github.com/ErvinRodriguez23/TiendaListoApp/assets/banner_tiendalisto.png) <!-- Puedes reemplazar esta URL por tu propio banner si lo subes -->
@@ -104,3 +106,5 @@ Desarrollado en el curso de programacion de Aplicaciones Móviles — Universida
 
 Este proyecto se entrega como trabajo académico. El uso y distribución es con fines educativos.
 
+
+¡Gracias por visitar este repositorio!
