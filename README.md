@@ -69,16 +69,6 @@ Durante el registro, el usuario elige su sede (Ate, VES, SJL, Los Olivos). Esto 
 
 ---
 
-## 📸 Capturas de pantalla
-
-| Splash Screen | Pantalla Principal | Chatbot Activo |
-|---------------|--------------------|----------------|
-| ![Splash](assets/splash.png) | ![Main](assets/main.png) | ![Chatbot](assets/chatbot.png) |
-
-> 📸 Agrega tus capturas en la carpeta `/assets/` y actualiza las rutas si es necesario.
-
----
-
 ## 📦 APK Release
 
 Puedes descargar la versión actual desde la sección de [Releases](https://github.com/ErvinRodriguez23/TiendaListoApp/releases).
@@ -90,7 +80,7 @@ Puedes descargar la versión actual desde la sección de [Releases](https://gith
 
 ## 🤝 Créditos
 
-Aplicación desarrollada como parte del proyecto de curso en la UCV - Android Mobile Development:
+Aplicación desarrollada como parte del proyecto del curso programacion de aplicaciones moviles
 
 **Integrantes:**
 
@@ -106,8 +96,7 @@ Aplicación desarrollada como parte del proyecto de curso en la UCV - Android Mo
 
 ## 📬 Contacto
 
-Desarrollado en el curso de Aplicaciones Móviles — Universidad César Vallejo  
-Contacto del representante: `ervin.huamanyalli@ucvvirtual.edu.pe`
+Desarrollado en el curso de programacion de Aplicaciones Móviles — Universidad César Vallejo  
 
 ---
 
