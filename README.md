@@ -1,8 +1,6 @@
+# 📦 TiendaListoApp — ¡Tu tienda cercana ahora en tu bolsillo!
 <!-- Banner visual -->
 ![Banner](https://raw.githubusercontent.com/ErvinRodriguez23/TiendaListoApp/main/banner.png)
-# 📦 TiendaListoApp — ¡Tu tienda cercana ahora en tu bolsillo!
-
-![TiendaListo Banner](https://github.com/ErvinRodriguez23/TiendaListoApp/assets/banner_tiendalisto.png) <!-- Puedes reemplazar esta URL por tu propio banner si lo subes -->
 
 TiendaListoApp es una aplicación móvil desarrollada para mejorar la experiencia de compra de estudiantes en la Universidad César Vallejo (UCV), permitiéndoles acceder a productos por sede, promociones, contacto directo y más — todo desde su celular.
 
